@@ -1,6 +1,7 @@
 /*
   MAD201 - Project 1
-  Your Name - Student ID
+  Your Name - Ashishkumar Prajapati
+  Student Id - A00194842
   Home dashboard - shows totals and navigation
 */
 import 'package:flutter/material.dart';
